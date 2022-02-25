@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"n1Blauer%20Salon.json"
+                 "value":"..\/Blauer%20Salon%20A\/n1Blauer%20Salon.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -77,7 +77,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/BallettVitovsky.mp3"
+                 "value":"BallettVitovsky.mp3"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -545,7 +545,7 @@
         {
          "columns":10,
          "firstgid":3369,
-         "image":"..\/sprites.png",
+         "image":"..\/sprites2.png",
          "imageheight":320,
          "imagewidth":320,
          "margin":0,
